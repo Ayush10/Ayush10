@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/ayushojha"><img src="https://api.daily.dev/devcards/2daf507595704e04a917457398d31497.png?r=0ah" width="400" alt="Ayush Ojha's Dev Card"/></a>
+
+<a href="https://app.daily.dev/ayushojha"><img src="https://api.daily.dev/devcards/2daf507595704e04a917457398d31497.png?r=vnv" width="400" alt="Ayush Ojha's Dev Card"/></a>
+
+<a href="https://app.daily.dev/ayushojha"><img src="https://api.daily.dev/devcards/2daf507595704e04a917457398d31497.png?r=peo" width="400" alt="Ayush Ojha's Dev Card"/></a>
+
+<a href="https://app.daily.dev/ayushojha"><img src="https://api.daily.dev/devcards/2daf507595704e04a917457398d31497.png?r=0p3" width="400" alt="Ayush Ojha's Dev Card"/></a>
