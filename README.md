@@ -49,6 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush10&show_icons=true&locale=en" alt="ayush10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush10&" alt="ayush10" /></p>
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=_ayushojha&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 
 <!--
