@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ayushojha" target="blank"><img src="https://img.shields.io/twitter/follow/_ayushojha?logo=twitter&style=for-the-badge" alt="_ayushojha" /></a> </p>
 
-- 🔭 I’m currently working on [Tekkon Technologies Pvt. Ltd.](https://tekkon.com.au/)
+- 🔭 I’m currently MSCS student in San Francisco Bay University.
 
 - 🌱 I’m currently learning **Blockchain.**
 
