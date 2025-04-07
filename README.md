@@ -9,16 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/_ayushojha" target="blank"><img src="https://img.shields.io/twitter/follow/_ayushojha?logo=twitter&style=for-the-badge" alt="_ayushojha" /></a> </p>
 
-- 🔭 I’m completed my MSCS from San Francisco Bay University.
-- 🔭 I’m upcoming MSCS at Georgia Tech.
+- 🔭 I’ve completed my MSCS from San Francisco Bay University.
+- 🔭 I’m an upcoming MSCS at Georgia Tech.
 
-- 🌱 I’m currently learning **AI, Quantum Computing, Blockchain.**
+- 🌱 I’m currently learning **AI, Quant, Quantum Computing, Blockchain.**
 
 - 👨‍💻 All of my projects are available at [https://ayushojha.com.np/](https://ayushojha.com.np/)
 
 - 📝 I regularly write articles on [https://medium.com/@ayushojha010](https://medium.com/@ayushojha010)
 
-- 💬 Ask me about **Project Management, Product Management**
+- 💬 Ask me about **Project Management, Product Management, AI, System Design, Quant.**
 
 - 📫 How to reach me **ayushojha010@gmail.com**
 
