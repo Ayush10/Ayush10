@@ -14,16 +14,14 @@
 
 - 🌱 I’m currently learning **AI, Quant, Quantum Computing, Blockchain.**
 
-- 👨‍💻 All of my projects are available at [https://ayushojha.com.np/](https://ayushojha.com.np/)
-
 - 📝 I regularly write articles on [https://medium.com/@ayushojha010](https://medium.com/@ayushojha010)
 
 - 💬 Ask me about **Project Management, Product Management, AI, System Design, Quant.**
 
 - 📫 How to reach me **ayushojha010@gmail.com**
 
-- 📄 Know about my experiences [https://ayushojha.com.np/](https://ayushojha.com.np/)
-
+<!-- 📄 Know about my experiences [https://ayushojha.com.np/](https://ayushojha.com.np/) -->
+<!-- 👨‍💻 All of my projects are available at [https://ayushojha.com.np/](https://ayushojha.com.np/) -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
