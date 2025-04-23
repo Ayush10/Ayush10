@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Project Management, Product Management, AI, System Design, Quant.**
 
-- 📫 How to reach me **ayushojha010@gmail.com**
+- 📫 How to reach me **ayusozha@gmail.com**
 
 <!-- 📄 Know about my experiences [https://ayushojha.com.np/](https://ayushojha.com.np/) -->
 <!-- 👨‍💻 All of my projects are available at [https://ayushojha.com.np/](https://ayushojha.com.np/) -->
