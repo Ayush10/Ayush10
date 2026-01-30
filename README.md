@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ayush%20Ojha&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Founding%20Product%20Engineer%20%7C%20AI%20%2B%20Fintech%20%7C%20Building%20the%20Future&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Product+Leader+%7C+7%2B+Years+in+AI+%26+Fintech;Building+AI-powered+financial+products;MSCS+%40+San+Francisco+Bay+University+%7C+Upcoming+%40+Georgia+Tech" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Product+Leader+%7C+7%2B+Years+in+AI+%26+Fintech;Building+AI-powered+financial+products;MSCS+%40+San+Francisco+Bay+University+%7C+Currently+%40+Georgia+Tech" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 <br/>
@@ -32,7 +32,7 @@ location: San Francisco Bay Area, CA
 current_role: Founding Product Engineer @ Quantum Insider
 education:
   - MSCS, San Francisco Bay University (Completed)
-  - MSCS, Georgia Tech (Upcoming)
+  - MSCS, Georgia Tech (Current - 1st Semester)
 focus_areas: [AI, Fintech, Quantum Computing, Blockchain]
 motto: "Building AI-powered financial products that serve millions"
 ```
