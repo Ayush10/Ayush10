@@ -8,12 +8,16 @@
 
 <!-- Profile Badges -->
 <br/>
-<a href="https://ayushojha.com"><img src="https://img.shields.io/badge/Portfolio-ayushojha.com-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://ayushojha.com"><img src="https://img.shields.io/badge/Portfolio-ayushojha.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ayushozha"><img src="https://img.shields.io/badge/LinkedIn-ayushozha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@ayushojha010"><img src="https://img.shields.io/badge/Medium-@ayushojha010-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://twitter.com/_ayushojha"><img src="https://img.shields.io/badge/Twitter-@__ayushojha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/_ayushojha"><img src="https://img.shields.io/badge/X-@__ayushojha-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<!-- Profile View Counter -->
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=ayush10&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ayush10&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyush10&count_bg=161b22&title_bg=0d1117&icon=github.svg&icon_color=58a6ff&title=Visitors+%28Today+%2F+Total%29&edge_flat=true" alt="Visitor Count"/>
 
 </div>
 
@@ -90,35 +94,37 @@ motto: "Building AI-powered financial products that serve millions"
 <!-- Awards Section -->
 ## Awards & Recognition
 
+<div align="center">
 <table>
 <tr>
-<td align="center">
-<img width="60" src="https://img.icons8.com/fluency/96/trophy.png" alt="trophy"/>
-<br/><b>National Innovation Award</b>
-<br/><sub>Government of Nepal, 2020</sub>
+<td align="center" width="20%">
+<br/><img src="https://img.shields.io/badge/%F0%9F%8F%86-National%20Innovation%20Award-FFD700?style=for-the-badge&labelColor=0d1117" />
+<br/><br/><sub><b>Government of Nepal</b></sub>
+<br/><sub>2020</sub><br/><br/>
 </td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/fluency/96/first-place-ribbon.png" alt="1st"/>
-<br/><b>1st Place</b>
-<br/><sub>Udhyam Innovation Challenge, 2021</sub>
+<td align="center" width="20%">
+<br/><img src="https://img.shields.io/badge/%F0%9F%A5%87-1st%20Place-FFD700?style=for-the-badge&labelColor=0d1117" />
+<br/><br/><sub><b>Udhyam Innovation Challenge</b></sub>
+<br/><sub>2021</sub><br/><br/>
 </td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/fluency/96/first-place-ribbon.png" alt="1st"/>
-<br/><b>1st Place</b>
-<br/><sub>Deerhack Hackathon, 2022</sub>
+<td align="center" width="20%">
+<br/><img src="https://img.shields.io/badge/%F0%9F%A5%87-1st%20Place-FFD700?style=for-the-badge&labelColor=0d1117" />
+<br/><br/><sub><b>Deerhack Hackathon</b></sub>
+<br/><sub>2022</sub><br/><br/>
 </td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/fluency/96/first-place-ribbon.png" alt="1st"/>
-<br/><b>1st Place</b>
-<br/><sub>Code Brisk Hackathon, 2022</sub>
+<td align="center" width="20%">
+<br/><img src="https://img.shields.io/badge/%F0%9F%A5%87-1st%20Place-FFD700?style=for-the-badge&labelColor=0d1117" />
+<br/><br/><sub><b>Code Brisk Hackathon</b></sub>
+<br/><sub>2022</sub><br/><br/>
 </td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/fluency/96/second-place-ribbon.png" alt="2nd"/>
-<br/><b>Runner-up</b>
-<br/><sub>Security Pal Hackathon, 2021</sub>
+<td align="center" width="20%">
+<br/><img src="https://img.shields.io/badge/%F0%9F%A5%88-Runner--up-C0C0C0?style=for-the-badge&labelColor=0d1117" />
+<br/><br/><sub><b>Security Pal Hackathon</b></sub>
+<br/><sub>2021</sub><br/><br/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -132,7 +138,7 @@ motto: "Building AI-powered financial products that serve millions"
 <p align="center">Real-time speech transformation platform with <50ms latency supporting 24 languages. Built with cutting-edge AI/ML pipelines for voice processing at scale.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/AI-Speech-58a6ff?style=flat-square" />
-<img src="https://img.shields.io/badge/Latency-<50ms-3fb950?style=flat-square" />
+<img src="https://img.shields.io/badge/Latency-%3C50ms-3fb950?style=flat-square" />
 <img src="https://img.shields.io/badge/Languages-24-d29922?style=flat-square" />
 </p>
 </td>
@@ -153,7 +159,7 @@ motto: "Building AI-powered financial products that serve millions"
 <p align="center">
 <img src="https://img.shields.io/badge/Users-3M+-58a6ff?style=flat-square" />
 <img src="https://img.shields.io/badge/Transactions-1.5M%2Fday-3fb950?style=flat-square" />
-<img src="https://img.shields.io/badge/Volume-$10M+%2Fday-d29922?style=flat-square" />
+<img src="https://img.shields.io/badge/Volume-%2410M%2B%2Fday-d29922?style=flat-square" />
 </p>
 </td>
 <td width="50%">
@@ -227,7 +233,7 @@ motto: "Building AI-powered financial products that serve millions"
 <tr>
 <td align="center"><b>Cloud & DevOps</b></td>
 <td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -238,9 +244,9 @@ motto: "Building AI-powered financial products that serve millions"
 <td align="center"><b>Design</b></td>
 <td>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -273,7 +279,7 @@ motto: "Building AI-powered financial products that serve millions"
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayush10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush10&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ayush10&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" />
 
@@ -293,13 +299,13 @@ motto: "Building AI-powered financial products that serve millions"
 <div align="center">
 
 <a href="https://linkedin.com/in/ayushozha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/_ayushojha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/_ayushojha"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://medium.com/@ayushojha010"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://ayushojha.com"><img src="https://img.shields.io/badge/Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://ayushojha.com"><img src="https://img.shields.io/badge/Website-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://instagram.com/ayu.shojha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/c/ayush-ojha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/ayushojha010"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.leetcode.com/ayush-ojha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/ayushojha010"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge" /></a>
+<a href="https://www.leetcode.com/ayush-ojha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" /></a>
 
 <br/><br/>
 
